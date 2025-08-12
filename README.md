@@ -4,6 +4,6 @@
 2.ubah command/teks di kolom command run menjadi "bash install.sh" dan pergi ke console dan start
 3.dan jika sudah pergi ke startup dan ke command run dan ubah yang "base install.sh" menajdi "node aldy.js" dan pergi ke console dan start dan dah nyalaaaaaa
 
-#
+# Cara setup bot di termux
 $ bash install.sh
 $ node aldy.js
