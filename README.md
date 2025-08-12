@@ -1,1 +1,9 @@
-# script-userbot-phising
+# Cara Setup Bot Di Panel
+
+1.Ke Startup dan ke command run
+2.ubah command/teks di kolom command run menjadi "bash install.sh" dan pergi ke console dan start
+3.dan jika sudah pergi ke startup dan ke command run dan ubah yang "base install.sh" menajdi "node aldy.js" dan pergi ke console dan start dan dah nyalaaaaaa
+
+#
+$ bash install.sh
+$ node aldy.js
