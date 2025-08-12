@@ -6,4 +6,5 @@
 
 # Cara setup bot di termux
 $ bash install.sh
+
 $ node aldy.js
